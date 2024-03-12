@@ -11,7 +11,7 @@ Checkout the repo and move to the directory
 
 ```
 git clone https://github.com/gampasivakumar4422/java-maven-sonarqube-argocd/spring-boot-app
-cd java-maven-sonarqube-argocd/sprint-boot-app
+cd sprint-boot-app
 ```
 
 Execute the Maven targets to generate the artifacts
